@@ -6,7 +6,7 @@ int main()
     int rollNo[10]; 
     int marks[10]; 
 
-    int n = 0; 
+    int n = 0;  
     int choice; 
     int searchRoll; 
 
