@@ -1,4 +1,5 @@
-# Data-Structure-Assignment-
+# Data-Structure-Assignments
+
 1.SMART LIBRARY BOOK MANAGEMENT SYSTEM
 
 2.STUDENT PERFORMANCE & RANKING MANAGEMENT SYSTEM
